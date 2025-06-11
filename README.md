@@ -11,7 +11,7 @@ This workflow automates the process of analyzing suspicious emails forwarded to 
 ## Features
 
 * Extracts URLs from emails.
-* Submits URLs to VirusTotal for analysis.
+* Submits URLs to VirusTotal for further analysis.
 * Submits attachments to VirusTotal for analysis.
 * Generates a consolidated report with scan results.
 
